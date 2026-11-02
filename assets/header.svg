@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">corrie0871-commits</title>
+  <desc id="desc">Build thoughtfully. Keep learning.</desc>
+  <rect width="1200" height="320" rx="18" fill="#101c30"/>
+  <path d="M820 0v320M900 0v320M980 0v320M1060 0v320M1140 0v320M780 80h420M780 160h420M780 240h420" stroke="#23334d" fill="none"/>
+  <path d="M850 238l74-78 76 30 88-107" stroke="#78d9c4" stroke-width="3" fill="none"/>
+  <g fill="#78d9c4"><circle cx="850" cy="238" r="6"/><circle cx="924" cy="160" r="6"/><circle cx="1000" cy="190" r="6"/><circle cx="1088" cy="83" r="6"/></g>
+  <text x="64" y="79" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4" fill="#78d9c4">PERSONAL WORKSPACE</text>
+  <text x="60" y="157" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" fill="#f2f6fc">corrie0871-commits</text>
+  <text x="64" y="213" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#b9c7da">Build thoughtfully. Keep learning.</text>
+  <rect x="64" y="260" width="48" height="3" fill="#78d9c4"/>
+</svg>
